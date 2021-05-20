@@ -1,0 +1,4 @@
+rootProject.name='IpcDemos'
+include ':app'
+include ':aidl_service'
+include ':aidl_client'
