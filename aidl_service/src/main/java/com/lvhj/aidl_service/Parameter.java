@@ -7,6 +7,8 @@ public class Parameter implements Parcelable {
 
     private int param;
 
+    ClassLoader classLoader = new ClassLoader() {};
+
     public Parameter(int param) {
         this.param = param;
     }

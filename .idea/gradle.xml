@@ -13,6 +13,8 @@
             <option value="$PROJECT_DIR$/aidl_client" />
             <option value="$PROJECT_DIR$/aidl_service" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/binder_pool_client" />
+            <option value="$PROJECT_DIR$/binder_pool_server" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
